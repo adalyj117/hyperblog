@@ -1,7 +1,5 @@
 Hola este es el archivo que modificaré para la practica
 
-y para aprender 
-que de los errores se aprende 
 Ademas seguiremos agregando lineas 
 Y ahora probaremos con números 
 1,2,3,4,5,6. 
